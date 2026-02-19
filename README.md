@@ -1,0 +1,2 @@
+# Impact-of-AI-Based-Personalization-on-Conversion-Funnel-Efficiency-in-E-Commerce
+Quantitative analysis of AI-driven personalization and its effect on e-commerce conversion funnel efficiency. Implemented multiple linear regression (OLS) using statsmodels in Python and conducted reliability testing (Cronbach’s Alpha) to evaluate the predictive impact of personalization dimensions on conversion outcomes.
